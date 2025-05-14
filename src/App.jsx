@@ -137,6 +137,10 @@ const HomePage = () => {
             </ul>
           )}
         </section>
+                <footer className="mt-8 py-4 text-right">
+          <p className="text-gray-400 mr-4">Created by Mainak Kundu aka MIKEY</p>
+        </footer>
+
       </div>
     </main>
   )
